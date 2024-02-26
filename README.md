@@ -1,4 +1,4 @@
-# C++ Password Generator
+# C# Password Generator
 
 Gerador de senhas aleatórias baseado em C#!
 
